@@ -1,3 +1,11 @@
+# DeTree — Legacy Python implementation
+
+> [!IMPORTANT]
+> This Python implementation has been replaced by the native Rust version at
+> [morganross/detree3](https://github.com/morganross/detree3). New users and
+> contributors should use the Rust project. This repository remains available
+> for historical reference.
+
 # DeTree (Formerly Docs2saurus)
 Create files and folder structure using a text editor.
 
